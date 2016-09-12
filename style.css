@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+}
+body {
+	background:url(images/background.jpg) top repeat-x;
+}
+.karkas{
+	width:855px;
+	margin:0 auto;
+}
+.header{
+	padding-top:36px;
+	padding-bottom:40px;
+}
+.logo{
+	display:inline-block;
+	float:left;
+}
+nav ul{
+	padding-top:4px;
+	list-style:none;
+	overflow:hidden
+	}
+nav ul li{
+	float:left;
+	padding-left:30px;
+	color:#b3b3b3;
+}
