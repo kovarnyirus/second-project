@@ -18,11 +18,13 @@ body {
 	float:left;
 }
 nav ul{
+	
 	padding-top:4px;
 	list-style:none;
 	overflow:hidden
 	}
 nav ul li{
+	text-align: right;
 	float:left;
 	padding-left:30px;
 	color:#b3b3b3;
