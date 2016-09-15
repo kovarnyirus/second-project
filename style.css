@@ -18,16 +18,20 @@ body {
 	float:left;
 }
 nav ul{
+	text-align: right;
 	padding-top:4px;
 	list-style:none;
 	overflow:hidden
 	}
 nav ul li{
-	text-align:right;
-	float:left;
+	
+	display: inline-block;
 	padding-left:30px;
 	color:#b3b3b3;
 }
 .active{
 	background-color:blue;
+}
+.main-content{
+     border: 15px solid rgba(255,255,255,.1);
 }
